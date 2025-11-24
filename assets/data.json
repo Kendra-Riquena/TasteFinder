@@ -1,0 +1,152 @@
+[
+  {
+    "nome": "Pudim",
+    "ingrediente": "Leite condensado, ovo, leite e açúcar",
+    "link": "https://www.tudogostoso.com.br/receita/31593-pudim-de-leite-condensado.html"
+  },
+  {
+    "nome": "Brigadeiro",
+    "ingrediente": "Leite condensado, margarina, chocolate em pó, chocolare granulado",
+    "link": "https://www.tudogostoso.com.br/receita/114-brigadeiro.html"
+  },
+  {
+    "nome": "Pão de Queijo",
+    "ingrediente": "Polvilho azedo, queijo parmesão ralado, óleo, leite, ovo, sal",
+    "link": "https://www.tudogostoso.com.br/receita/1283-pao-de-queijo.html"
+  },
+  {
+    "nome": "Bolo de Cenoura com Cobertura de Chocolate",
+    "ingrediente": "Cenoura, óleo, ovo, açúcar, farinha de trigo, fermento em pó, chocolate em pó, manteiga, leite",
+    "link": "https://www.tudogostoso.com.br/receita/3630-bolo-de-cenoura.html"
+  },
+  {
+    "nome": "Mousse de Maracujá",
+    "ingrediente": "Leite condensado, creme de leite, suco de maracujá concentrado",
+    "link": "https://www.tudogostoso.com.br/receita/13939-mousse-de-maracuja-rapido.html"
+  },
+  {
+    "nome": "Feijoada Completa",
+    "ingrediente": "Feijão preto, carnes de porco salgadas (costelinha, lombo, paio, linguiça), bacon, cebola, alho, louro",
+    "link": "https://www.tudogostoso.com.br/receita/179393-feijoada-completa.html"
+  },
+  {
+    "nome": "Coxinha de Frango",
+    "ingrediente": "Peito de frango, caldo de galinha, farinha de trigo, batata, cebola, alho, cheiro-verde, ovo, farinha de rosca",
+    "link": "https://www.tudogostoso.com.br/receita/4257-coxinha.html"
+  },
+  {
+    "nome": "Moqueca Baiana",
+    "ingrediente": "Peixe branco (cação, robalo), camarão, leite de coco, azeite de dendê, pimentão, tomate, cebola, coentro",
+    "link": "https://www.tudogostoso.com.br/receita/3154-moqueca-baiana.html"
+  },
+  {
+    "nome": "Vatapá",
+    "ingrediente": "Pão francês, camarão seco, leite de coco, azeite de dendê, amendoim, castanha de caju, gengibre, cebola",
+    "link": "https://www.tudogostoso.com.br/receita/2911-vatapa.html"
+  },
+  {
+    "nome": "Acarajé",
+    "ingrediente": "Feijão fradinho, cebola, azeite de dendê, sal",
+    "link": "https://www.tudogostoso.com.br/receita/16891-acaraje.html"
+  },
+  {
+    "nome": "Empadão de Frango Cremoso",
+    "ingrediente": "Farinha de trigo, manteiga, ovo, peito de frango, requeijão, milho, azeitona, cebola, tomate",
+    "link": "https://www.tudogostoso.com.br/receita/64111-empadao-de-frango-cremoso.html"
+  },
+  {
+    "nome": "Pastel de Feira",
+    "ingrediente": "Farinha de trigo, óleo, cachaça, água morna, sal, recheio a gosto (carne moída, queijo)",
+    "link": "https://www.tudogostoso.com.br/receita/159232-massa-de-pastel-de-feira.html"
+  },
+  {
+    "nome": "Bolo de Fubá Cremoso",
+    "ingrediente": "Fubá, leite, açúcar, ovo, farinha de trigo, queijo parmesão ralado, óleo, fermento em pó",
+    "link": "https://www.tudogostoso.com.br/receita/14332-bolo-de-fuba-cremoso.html"
+  },
+  {
+    "nome": "Canjica",
+    "ingrediente": "Milho para canjica, leite, leite de coco, leite condensado, coco ralado, canela em pau, cravo-da-índia",
+    "link": "https://www.tudogostoso.com.br/receita/1538-canjica.html"
+  },
+  {
+    "nome": "Arroz Doce Cremoso",
+    "ingrediente": "Arroz, leite, leite condensado, creme de leite, canela em pó",
+    "link": "https://www.tudogostoso.com.br/receita/29136-arroz-doce-cremoso.html"
+  },
+  {
+    "nome": "Quindim",
+    "ingrediente": "Gema de ovo, açúcar, coco ralado, manteiga",
+    "link": "https://www.tudogostoso.com.br/receita/23916-quindim-facil.html"
+  },
+  {
+    "nome": "Beijinho",
+    "ingrediente": "Leite condensado, coco ralado, manteiga, cravo-da-índia",
+    "link": "https://www.tudogostoso.com.br/receita/63-beijinho.html"
+  },
+  {
+    "nome": "Cajuzinho",
+    "ingrediente": "Leite condensado, amendoim torrado e moído, chocolate em pó, manteiga, açúcar cristal",
+    "link": "https://www.tudogostoso.com.br/receita/29-cajuzinho.html"
+  },
+  {
+    "nome": "Salpicão de Frango Simples",
+    "ingrediente": "Frango desfiado, maionese, cenoura ralada, milho, ervilha, uva passa, batata palha",
+    "link": "https://www.tudogostoso.com.br/receita/2422-salpicao-de-frango-simples.html"
+  },
+  {
+    "nome": "Maionese de Batata",
+    "ingrediente": "Batata, cenoura, vagem, maionese, ovo cozido, cheiro-verde, azeitona",
+    "link": "https://www.tudogostoso.com.br/receita/1445-maionese.html"
+  },
+  {
+    "nome": "Farofa de Banana",
+    "ingrediente": "Farinha de mandioca, banana, manteiga, cebola, bacon, cheiro-verde",
+    "link": "https://www.tudogostoso.com.br/receita/1018-farofa-de-banana.html"
+  },
+  {
+    "nome": "Bobó de Camarão",
+    "ingrediente": "Camarão, mandioca, leite de coco, azeite de dendê, tomate, pimentão, cebola, coentro",
+    "link": "https://www.tudogostoso.com.br/receita/2485-bobo-de-camarao.html"
+  },
+  {
+    "nome": "Escondidinho de Carne Seca",
+    "ingrediente": "Carne seca, mandioca, manteiga, leite, requeijão, queijo parmesão ralado, cebola",
+    "link": "https://www.tudogostoso.com.br/receita/31806-escondidinho-de-carne-seca.html"
+  },
+  {
+    "nome": "Lasanha à Bolonhesa",
+    "ingrediente": "Massa para lasanha, carne moída, molho de tomate, presunto, muçarela, queijo parmesão ralado",
+    "link": "https://www.tudogostoso.com.br/receita/1519-lasanha-a-bolonhesa.html"
+  },
+  {
+    "nome": "Strogonoff de Frango",
+    "ingrediente": "Peito de frango, creme de leite, ketchup, mostarda, champignon, cebola, batata palha",
+    "link": "https://www.tudogostoso.com.br/receita/2916-strogonoff-de-frango-simples.html"
+  },
+  {
+    "nome": "Torta Holandesa",
+    "ingrediente": "Biscoito maisena, manteiga, creme de leite, leite condensado, gema, chocolate meio amargo, biscoito calipso",
+    "link": "https://www.tudogostoso.com.br/receita/16-torta-holandesa.html"
+  },
+  {
+    "nome": "Pavê de Chocolate Simples",
+    "ingrediente": "Biscoito maisena, leite condensado, creme de leite, chocolate em pó, leite, amido de milho",
+    "link": "https://www.tudogostoso.com.br/receita/61591-pave-de-chocolate-simples.html"
+  },
+  {
+    "nome": "Romeu e Julieta",
+    "ingrediente": "Goiabada, queijo minas frescal",
+    "link": "https://www.tudogostoso.com.br/receita/184191-romeu-e-julieta-diferente.html"
+  },
+  {
+    "nome": "Cuscuz Paulista",
+    "ingrediente": "Farinha de milho, sardinha em lata, ovo cozido, palmito, ervilha, azeitona, molho de tomate",
+    "link": "https://www.tudogostoso.com.br/receita/2908-cuscuz-paulista.html"
+  },
+  {
+    "nome": "Frango a Passarinho",
+    "ingrediente": "Pedaços de frango, alho, óleo, sal, pimenta-do-reino, salsinha",
+    "link": "https://www.tudogostoso.com.br/receita/3163-frango-a-passarinho.html"
+  }
+]
