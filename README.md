@@ -1,7 +1,5 @@
 #  TasteFinder
 
-![Logo](img/Logo.png)
-
 ## 📖 Sobre o Projeto
 
 **TasteFinder** é uma aplicação web simples projetada para ajudar os usuários a encontrar receitas deliciosas de forma rápida e fácil. Seja procurando por um prato específico ou com base nos ingredientes que você tem em casa, o TasteFinder apresenta uma lista de opções com links para as receitas completas.
